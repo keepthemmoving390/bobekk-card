@@ -1,0 +1,33 @@
+body {
+    margin: 50px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.dog {
+    width: 160px;
+
+}
+
+.card {
+    display: flex;
+    padding: 30px;
+    width: 400px;
+    justify-content: space-around;
+    background-color: aquamarine;
+    margin: 0 auto;
+    text-align: center;
+    background-image: linear-gradient(to right, red, orange, yellow, green, blue, indigo, violet);
+}
+
+.border {
+    border: 2px dotted rgb(105, 164, 224);
+}
+
+.card {
+    border-bottom: 3px solid goldenrod;
+
+}
+
+.info {
+    width: 150px;
+}
